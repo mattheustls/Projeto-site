@@ -14,3 +14,7 @@ main{
     padding: 10px;
     box-shadow: lavender;
 }
+
+img.Lado{
+    float:right;
+}
